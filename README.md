@@ -20,3 +20,18 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## My GitHub Stats
+
+ <img src="https://github-readme-stats.vercel.app/api?username=fnaquira&show_icons=true&theme=gotham" alt="fnaquira" width="45%" align="right"/>
+ <img  src="https://github-readme-streak-stats.herokuapp.com/?user=fnaquira&theme=dark" width="48%" >
+ 
+### My Stackoverflow Stats
+
+<a href="https://stackoverflow.com/users/1216885/fnaquira"><img src="https://stackoverflow.com/users/flair/1216885.png" width="208" height="58" alt="profile for fnaquira at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for fnaquira at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
+
+  
+  
+## Top Languages
+  
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fnaquira&layout=compact)
+  
